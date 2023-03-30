@@ -35,3 +35,7 @@
 2023-03-28 09:14:30.209446|6220 |6292 |INFO |  60|[de5d19b1-46c2-4843-af21-3fd65b699a97] : [socket.*.cmd.login] send sync data[cmd_client_login] to [de5d19b1-46c2-4843-af21-3fd65b699a97]
 2023-03-28 09:14:30.210085|6220 |6292 |INFO |  70|recv the [socket.*.cmd.login] response[cmd_client_login].
 2023-03-28 09:14:30.210116|6220 |6292 |DEBUG|  89|client[de5d19b1-46c2-4843-af21-3fd65b699a97] login success, recv data[cmd_client_login].
+2023-03-30 08:43:51.790593|4276 |4367 |DEBUG| 157|recv client sdk callback, info[detective all clients connected server.], type[2].
+2023-03-30 08:43:51.810921|4276 |4367 |INFO |  60|[88231b2c-cda6-416a-a4ad-e557e66cc393] : [socket.*.cmd.login] send sync data[cmd_client_login] to [88231b2c-cda6-416a-a4ad-e557e66cc393]
+2023-03-30 08:43:51.817132|4276 |4367 |INFO |  70|recv the [socket.*.cmd.login] response[cmd_client_login].
+2023-03-30 08:43:51.817188|4276 |4367 |DEBUG|  89|client[88231b2c-cda6-416a-a4ad-e557e66cc393] login success, recv data[cmd_client_login].
